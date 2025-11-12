@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "785072210102",
+    "project_id": "connectchat-backend",
+    "storage_bucket": "connectchat-backend.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785072210102:android:bc4630d98de01bb469e617",
+        "android_client_info": {
+          "package_name": "com.example.connectchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaezSzkG1Xa7jyOwIi2qyl7zp6Gzr2PnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

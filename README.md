@@ -15,7 +15,6 @@ This project is a fully functional, real-time messaging application powered by F
 | <img src="IMG-20251112-WA0024.png" width="250"> | <img src="IMG-20251112-WA0025.png" width="250"> | <img src="IMG-20251112-WA0026.png" width="250"> |
 <img src="IMG-20251112-WA0027.png" width="250"> | <img src="IMG-20251112-WA0028.png" width="250"> | <img src="IMG-20251112-WA0029.png" width="250"> |
 
-*(**Pro Tip:** Replace these with your own screenshots! Create an `art` folder in your project root to store them.)*
 
 ---
 

@@ -12,9 +12,13 @@ This project is a fully functional, real-time messaging application powered by F
 
 | Login / Sign Up | Conversations List | Chat Screen |
 | :---------------: | :------------------: | :-----------: |
-| <img src="ConnectChat/screenshoots/IMG-20251112-WA0024.png" width="250"> | <img src="IMG-20251112-WA0025.png" width="250"> | <img src="IMG-20251112-WA0026.png" width="250"> |
-<img src="IMG-20251112-WA0027.png" width="250"> | <img src="IMG-20251112-WA0028.png" width="250"> | <img src="IMG-20251112-WA0029.png" width="250"> |
-
+| <!-- I added headers to make your table look more professional! -->
+| Login Screen | Home Screen | Chat Screen |
+|:------------:|:-----------:|:-----------:|
+| <img src="screenshoots/IMG-20251112-WA0024.png" width="250"> | <img src="screenshoots/IMG-20251112-WA0025.png" width="250"> | <img src="screenshoots/IMG-20251112-WA0026.png" width="250"> |
+| User Profile | Settings | Search |
+|:------------:|:--------:|:------:|
+| <img src="screenshoots/IMG-20251112-WA0027.png" width="250"> | <img src="screenshoots/IMG-20251112-WA0028.png" width="250"> | <img src="screenshoots/IMG-20251112-WA0029.png" width="250"> |
 
 ---
 
